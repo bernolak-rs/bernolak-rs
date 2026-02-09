@@ -23,4 +23,4 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=bernolak-rs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Featured Project
-- [**Metabrowser**](link) - A high-performance browser built with Rust Actix-Web and PostgreSQL.
+- [**Metabrowser**](https://github.com/bernolak-rs/metabrowser) - A high-performance browser built with Rust Actix-Web and PostgreSQL.
