@@ -20,7 +20,7 @@
 ---
 
 ### 📊 Stats
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernolak-code&theme=dark&layout=compact)
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernolak-rs&theme=dark&layout=compact)
 
 ### 🚀 Featured Project
 - [**Metabrowser**](link) - A high-performance browser built with Rust Actix-Web and PostgreSQL.
