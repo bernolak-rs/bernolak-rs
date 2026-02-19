@@ -1,4 +1,4 @@
-# Hi, I'm Adam 👋
+# Hi, I'm Adam
 *Computer Science Student | Systems & Backend Enthusiast*
 
 ---
